@@ -1,4 +1,4 @@
-from app import hello, bye
+from app import bye, hello
 
 
 def test_hello():
@@ -6,4 +6,4 @@ def test_hello():
 
 
 def test_bye():
-    assert bye == "Bye!"
+    assert bye() == "Bye!"

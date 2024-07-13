@@ -1,4 +1,4 @@
-import hello from app
+from app import hello
 
 
 def test_app():

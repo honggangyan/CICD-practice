@@ -1,1 +1,1 @@
-This is a repo for CI/CD practice.
+This is a repository for CI/CD practice.

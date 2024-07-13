@@ -1,4 +1,4 @@
 # This is a repository for CI/CD practice
 
 
-All the changes have been deleted.
+This is another message to test.
